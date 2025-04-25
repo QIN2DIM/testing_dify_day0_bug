@@ -1,0 +1,17 @@
+identity:
+  author: qin2dim
+  name: boom_day0
+  label:
+    en_US: boom_day0
+    zh_Hans: boom_day0
+    pt_BR: boom_day0
+  description:
+    en_US: testing day 0 bug
+    zh_Hans: testing day 0 bug
+    pt_BR: testing day 0 bug
+  icon: icon.jpg
+tools:
+  - tools/boom_day0.yaml
+extra:
+  python:
+    source: provider/boom_day0.py
